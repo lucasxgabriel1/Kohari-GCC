@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Runas - Grand Chase",
+  "description": "Calculadora de probabilidades e simulador de runas do Grand Chase Classic. Calcule chances de invocação oficiais KOG, custos de fortalecimento com pedras negras, chances de sub-atributos perfeitos e simulação em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
